@@ -1,0 +1,13 @@
+name = "test"
+author = "wuznab"
+version = "3.3.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7048a6479f7f43a2e64c185a93a87d5ac2fc2c6b2303f3dce1c74339be3c925e"
+
+[versions]
+forge = "43.3.0"
+minecraft = "1.19.2"

@@ -1,0 +1,16 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "e6f3f35e94e04a8bfe74a1e228c309fef2129d50485134a7f607af5aadf524ca"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ad5667ef0b3044c7b03f2a905404e34639d09ba36eaa580dec8d793149e5e646"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "e5e432adb3e91201ef2bf46c6a6ab8ea046a35aaf3498c8f9d2f06dafceca713"
+metafile = true
